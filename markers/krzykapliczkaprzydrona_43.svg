@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="kapliczka.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6720459"
+     inkscape:cx="176.43056"
+     inkscape:cy="165.36627"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="2091"
+     inkscape:window-y="607"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="g2"
+     transform="matrix(1.0012087,0,0,1.0012087,-98.542761,-156.1803)">
+    <path
+       id="path1-8"
+       style="fill:#000000;stroke:#000000;stroke-width:4.30001;stroke-linecap:round"
+       d="m 148.36317,158.63336 a 35.144321,35.144321 0 0 0 -35.1441,35.1441 35.144321,35.144321 0 0 0 35.1441,35.14412 35.144321,35.144321 0 0 0 35.14463,-35.14412 35.144321,35.144321 0 0 0 -35.14463,-35.1441 z m 5.2e-4,3.35173 a 31.792406,31.792406 0 0 1 31.79237,31.79237 31.792406,31.792406 0 0 1 -31.79237,31.79238 31.792406,31.792406 0 0 1 -31.79289,-31.79238 31.792406,31.792406 0 0 1 31.79289,-31.79237 z" />
+    <path
+       id="path2-2"
+       style="fill:#000000;stroke:#000000;stroke-width:3.68164;stroke-linecap:round"
+       inkscape:transform-center-y="7.0389796"
+       d="m 117.45811,210.03387 30.98619,42.23367 30.98568,-42.23367 h -4.01117 a 32.148918,24.386906 0 0 1 -27.13232,11.30552 32.148918,24.386906 0 0 1 -27.13179,-11.30552 z" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.78711;stroke-linecap:round;stroke-opacity:1"
+       d="m 116.75409,209.34054 c 20.9533,26.95805 20.9533,26.95805 20.9533,26.95805"
+       id="path4-45" />
+    <circle
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:9.60987"
+       id="path3-5"
+       cx="148.69476"
+       cy="193.47278"
+       r="27.721392" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.78711;stroke-linecap:round;stroke-opacity:1"
+       d="m 180.49878,208.29104 c -20.95329,26.95805 -20.95329,26.95805 -20.95329,26.95805"
+       id="path4-8" />
+  </g>
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.19744;stroke-linecap:round;stroke-dasharray:none"
+     d="M 36.045213,43.629238 V 59.608051 H 65.418031 V 43.159273 H 53.433922 V 25.18311 H 64.948066 V 19.073563 H 53.551413 v -8.106897 h -5.992056 v 8.106897 H 35.81023 v 5.757073 h 11.396655 v 18.446129 z"
+     id="path4" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Warstwa 2"
+     style="stroke:#00ffff"
+     transform="matrix(0.74249122,0,0,0.74249122,12.546959,3.0947498)" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(0.74249122,0,0,0.74249122,12.546959,3.0947498)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-dasharray:none"
+       d="M 50.949436,55.935725 V 13.654309"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-dasharray:none"
+       d="M 34.633862,25.606191 H 67.265009"
+       id="path3" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-dasharray:none"
+       id="rect3"
+       width="32.763184"
+       height="16.540628"
+       x="34.567844"
+       y="56.84655"
+       ry="0" />
+  </g>
+</svg>

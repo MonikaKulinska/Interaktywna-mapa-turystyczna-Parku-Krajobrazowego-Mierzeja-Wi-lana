@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="spanie.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3024271"
+     inkscape:cx="195.78831"
+     inkscape:cy="157.01455"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="2091"
+     inkscape:window-y="607"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,1,1,0,5.2147346,0,1 @ F,0,0,1,0,10.830403,0,1 @ F,0,0,1,0,5.2147346,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Warstwa 2"
+     style="display:inline" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g2"
+       transform="matrix(1.013283,0,0,1.013283,-100.33415,-158.66678)">
+      <path
+         id="path1-8"
+         style="fill:#552200;stroke:#000000;stroke-width:4.30001;stroke-linecap:round"
+         d="m 148.36317,158.63336 a 35.144321,35.144321 0 0 0 -35.1441,35.1441 35.144321,35.144321 0 0 0 35.1441,35.14412 35.144321,35.144321 0 0 0 35.14463,-35.14412 35.144321,35.144321 0 0 0 -35.14463,-35.1441 z m 5.2e-4,3.35173 a 31.792406,31.792406 0 0 1 31.79237,31.79237 31.792406,31.792406 0 0 1 -31.79237,31.79238 31.792406,31.792406 0 0 1 -31.79289,-31.79238 31.792406,31.792406 0 0 1 31.79289,-31.79237 z" />
+      <path
+         id="path2-2"
+         style="fill:#000000;stroke:#000000;stroke-width:3.68164;stroke-linecap:round"
+         inkscape:transform-center-y="7.0389796"
+         d="m 117.45811,210.03387 30.98619,42.23367 30.98568,-42.23367 h -4.01117 a 32.148918,24.386906 0 0 1 -27.13232,11.30552 32.148918,24.386906 0 0 1 -27.13179,-11.30552 z" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.78711;stroke-linecap:round;stroke-opacity:1"
+         d="m 116.75409,209.34054 c 20.9533,26.95805 20.9533,26.95805 20.9533,26.95805"
+         id="path4-45" />
+      <circle
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:9.60987"
+         id="path3-5"
+         cx="148.69476"
+         cy="193.47278"
+         r="27.721392" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.78711;stroke-linecap:round;stroke-opacity:1"
+         d="m 180.49878,208.29104 c -20.95329,26.95805 -20.95329,26.95805 -20.95329,26.95805"
+         id="path4-8" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.50001;stroke-linecap:round;stroke-dasharray:none"
+       d="M 70.288642,50.380299 V 43.473322 H 31.893978 v 6.500684 -24.174417"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.50001;stroke-linecap:round;stroke-dasharray:none"
+       d="M 46.926809,36.769493 H 69.069764"
+       id="path2" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:4.50001;stroke-linecap:round;stroke-dasharray:none"
+       id="path3"
+       cx="39.308823"
+       cy="34.534885"
+       rx="2.1330369"
+       ry="2.0314636" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Warstwa 3" />
+</svg>
